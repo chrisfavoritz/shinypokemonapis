@@ -578,7 +578,7 @@
     {
       "id": 1021,
       "name": "Raging Bolt",
-      "img": "https://www.serebii.net/pShiny/SV/new/1021.png"
+      "img": "https://www.serebii.net/Shiny/SV/new/1021.png"
     },
     {
       "id": 1022,
@@ -594,11 +594,6 @@
       "id": 1024,
       "name": "Terapagos",
       "img": "https://www.serebii.net/Shiny/SV/new/1024.png"
-    },
-    {
-      "id": 1025,
-      "name": "Pecharunt",
-      "img": "https://www.serebii.net/Shiny/SV/new/1025.png"
     }
   ]
 }
